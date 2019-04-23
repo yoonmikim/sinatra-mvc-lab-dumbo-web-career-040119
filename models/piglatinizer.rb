@@ -1,4 +1,4 @@
-class PigLatinizer
+2class PigLatinizer
   
   def piglatinize_word(word)
 	  vowels = 'aeiouAEIOU'  
